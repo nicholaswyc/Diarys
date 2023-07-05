@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:drawable/alert_light_frame">
+        <!-- 设置内边距 -->
+        <padding
+            android:left="10dp"
+            android:right="10dp"
+            android:top="7dp"
+            android:bottom="7dp"  />
+        <!-- 设置圆角矩形 -->
+        <corners android:radius="10dp" />
+        <!-- 输入框背景颜色 -->
+
+        <!-- 外边框线的粗细及其颜色 -->
+        <stroke
+            android:width="2dp"
+            android:color="#BBBBBB" >
+        </stroke>
+</shape>
